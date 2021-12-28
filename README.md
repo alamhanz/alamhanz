@@ -8,7 +8,7 @@
 
 📓 Visit my [medium](https://alamhanz.medium.com/) and add my discord alamhanz#9529
 
-🥂 Dont forget to join Data Science Commmunity [here](http://bit.ly/discord-dsi-on)
+🥂 Dont forget to join [Data Science Indonesia](https://datascience.or.id/) Community [here](http://bit.ly/discord-dsi-on)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alamhanz.alamhanz) \
